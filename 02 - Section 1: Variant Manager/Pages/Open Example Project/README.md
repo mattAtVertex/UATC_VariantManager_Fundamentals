@@ -1,0 +1,5 @@
+# Open Example Project
+
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21756/preview?verifier=XpAMIduCbsbqVfd0kuV2U05yz7e2Zm3yEWAey7pr" alt="Artboard 20.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21756" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21757/preview?verifier=00bio1BYyhMf2BJQ5y1L7n7oIe59DNHCrXNO0KGf" alt="Artboard 21.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21757" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21758/preview?verifier=A5YAeegmRUDfd5NHSckY0l2tbdeeg1tQP9ko3ajT" alt="Artboard 22.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21758" data-api-returntype="File"></p>
