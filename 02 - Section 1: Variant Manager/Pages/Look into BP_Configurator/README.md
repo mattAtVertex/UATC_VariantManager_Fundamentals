@@ -1,0 +1,6 @@
+# Look into BP_Configurator
+
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21768/preview?verifier=GA5ROIHJugT0qzvugkNVfJFkYzDy0V3dALGTFsN3" alt="Artboard 31.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21768" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21769/preview?verifier=1kpmsFOSbmYzK4zjgrRki5vQfI9nlv8e1TCeXbZ8" alt="Artboard 32.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21769" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21770/preview?verifier=yhj9iNPHKyHRqMiUIg6JnbhiuWjuOMqukvINK1iP" alt="Artboard 33.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21770" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21771/preview?verifier=ihpQSUtAB7RQjgkMLSiUsksQcbDDYoMcRcVn7fdv" alt="Artboard 34.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21771" data-api-returntype="File"></p>
