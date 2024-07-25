@@ -1,0 +1,7 @@
+# Design Configurator Template Overview
+
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21751/preview?verifier=K2hEwW8wlMKLjl3eI2mYsIcaaqMVzED1auQaOw5S" alt="Artboard 15.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21751" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21752/preview?verifier=peepF9rf0c5ScWvabvNIXmDL6Hyw4bvhwd1jXtm7" alt="Artboard 16.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21752" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21753/preview?verifier=209zDVPxSMNiQhkp2ZSvgoXHPFs5AP9197RYnEEy" alt="Artboard 17.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21753" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21754/preview?verifier=z6jI1GvlJC5S30jdNaINIAvp9LQJUGwEqGuycP2l" alt="Artboard 18.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21754" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/318/files/21755/preview?verifier=9KPyvbqfqKF5VDkEODkBrwgx7wFIk0kVpi6fnE8D" alt="Artboard 19.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/318/files/21755" data-api-returntype="File"></p>
